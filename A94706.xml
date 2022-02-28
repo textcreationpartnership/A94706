@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority, the Parliament of the Common-wealth of England The humble address and congratulation of many thousands of watermen belonging to the River of Thames.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94706</idno>
+            <idno type="STC">Wing T1744</idno>
+            <idno type="STC">Thomason 669.f.23[28]</idno>
+            <idno type="STC">ESTC R211532</idno>
+            <idno type="EEBO-CITATION">99870249</idno>
+            <idno type="PROQUEST">99870249</idno>
+            <idno type="VID">163684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163684)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority, the Parliament of the Common-wealth of England The humble address and congratulation of many thousands of watermen belonging to the River of Thames.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Streater, and John Macock, Printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659. [i.e., 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Recites the history of the Parliament from the point of view of its supporters, and professes loyalty.</note>
+                  <note>Order to print dated: Tuesday, January 31. 1659. [i.e. 1660]. Signed: Thomas St Nicholas, Clerk of the Parliament.</note>
+                  <note>Annotation on Thomason copy: "Feb: 2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:163684:1" rendition="simple:additions"/>
+            <head>To the Supreme Authority, the Parliament of the Common-wealth of England. The Humble Addreſs and Congratulation of many thouſands of Watermen belonging to the River of Thames.</head>
+            <opener>
+               <salute>Moſt Renowned and Worthy Patriots,</salute>
+            </opener>
+            <p>THe various changes and troubles that this Nation of late yeares hath been involved into (the oppreſſions and miſeries thereby entering into
+the doors of every private perſon) hath made us ſenſible of the miſ-government and male-adminiſtration of publick affairs; and though we
+are not exerciſed in matters of Rule, but wholly ſubjected to the ſeveral Uſurping Powers that have been over us, yet are we thereby (though
+to our ſad and woful experience) taught the reaſons of our growing miſeries and ſtrange alterations in Government, (unhinging and mo<g ref="char:EOLhyphen"/>ving
+the Nation from the firm foundations of all ſafety and peace) and we cannot expect any remedy, but a further addition of confuſion and
+miſery, untill the Original Cauſe and Root of thoſe evills be clean taken <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>way, all that is of perſonal and private Conſtitution (whether of
+antient or latter date) weeded out, and the Publick ſecured and centered upon the grounds of common Concernment, equal and impartial to all. Of old
+time indeed our Parliaments have been intermixt and clogg'd with Kingſhip and Peerage, and though owned and of long continuance, yet were they of
+great abuſe and violation to the juſt Rights of the People, (a meer Family-Intereſt, and in perpetual oppoſition to the whole) neither King nor Lords being
+any part of the true Parliaments of <hi>England,</hi> but an impoſed power upon them from the Intereſt of the Old <hi>Norman</hi> Sword; a true Parliament being the
+Repreſentative of the People, their choſen Deputies in Council, neither King nor Lords being choſen or repreſenting either County, City, or Burrough, but
+meerly as unnatural Wens and Bunches upon that Authority, the evills whereof this Nation hath felt through all ſucceſſion of times, the Over-balance of thoſe
+Families proving fatal to the whole, multiplying miſeries and calamities upon us at meer will and pleaſure, till the ſame at laſt (extending too far) broke forth
+into an abſolute warr, the Parliament taking up armes againſt the King in the juſt vindication and defence of our Lawes and Liberties; and after many ſharp
+and bloody battles, it pleaſed God to give the People in Parliament Conqueſt over theſe Prerogative Powers.</p>
+            <p>But after the firſt Warr was over, and God had delivered the King (the Capital and Grand Author of our Troubles) into your hands, deſperate Combina<g ref="char:EOLhyphen"/>tions
+and Endeavors were then uſed by the now ſecluded Members to render that Conqueſt fruitleſs and in vain; which the better to effect, a malignant tumult
+of Apprentiſes and rude people was procured to come up to <hi>Weſtminſter,</hi> who put the firſt grand Diſturbance and Force upon the Parliament, that the <hi>Speaker</hi>
+and thoſe Members who had not forfeited their right of Seſſion in Parliament, were forced to fly from the Houſe for ſhelter to their Army, while the apo<g ref="char:EOLhyphen"/>ſtate
+Members in their abſence choſe themſelves a new <hi>Speaker,</hi> raiſed the City, and proceeded to the forming of an Army under <hi>Poynze</hi> and <hi>Maſſey,</hi> admit<g ref="char:EOLhyphen"/>ting
+the impeached Members to ſit in the Houſe, and Vote as formerly, when they had been expelled by this Houſe in full Parliament from their Seſſion
+there, for the treaſonable Engagement in the City of <hi>London</hi> 1647. and drawing the <hi>Scots</hi> to invade this Nation.</p>
+            <p>And now the Old Enemy again (under a pretended Right from the firſt Election of the ſaid impeached and confederate Members) endeavoureth their re<g ref="char:EOLhyphen"/>admittance
+in Parliament, on purpoſe to re-inforce our old bondage of Monarchy again upon us, putting the Ambition of a ſingle Family in competition
+with the Republick of <hi>England;</hi> this being the apparent deſigne of the now ſecluded Members againſt us. But as your Honors have upon juſt grounds de<g ref="char:EOLhyphen"/>clared
+and adjudged their Excluſion lawfull, So we will with our lives and fortunes ſtand by you therein.</p>
+            <p>Now after your Honors had paſt over this firſt grand Interruption, and were freed in your Counſels from the ſaid trayterous Confederates, and ſo entered
+upon the free exerciſe of your Truſt again, cut off the King, and were ſettling the Government in the way of a Free State, without Kingſhip, Peerage and
+Perſecution, wholly paid off your Armies and Navies, and even brought us to the Harbour of Freedom and Safety, another Interruption ſucceedeth by that
+Apoſtate and Tyrant <hi>Oliver,</hi> who introduceth a more abſolute Monarchy then before. And being thus removed from the Freedom of a Common-wealth to
+a Family-Intereſt again, horrible and innumerable were the Evills which naturally followed: Peace made with the <hi>Dutch</hi> upon diſhonorable terms, when by
+your Navies they were almoſt ſubdued; the Act of this Parliament for the encreaſe of Navigation and Trade totally neglected, an unneceſſary and deſtru<g ref="char:EOLhyphen"/>ctive
+Warr with <hi>Spain</hi> contracted, Taxes and Impoſitions exacted without conſent in Parliament, all Law and Juſtice over-awed at pleaſure, the great Trea<g ref="char:EOLhyphen"/>ſure
+of the Nation left by this Parliament in Banck wholly ſpent, new vaſt Sums raiſed, and an unparallel'd Debt contracted, multitude of Shipping loſt, and
+thouſands of the free People of <hi>England</hi> deſtroyed in <hi>Jamaica</hi> and <hi>Flanders,</hi> all Trade ruin'd, and Beggary and Confuſion brought upon us; no other being
+the Iſſues to be expected from Kingſhip or Single Perſon.</p>
+            <p>But it having pleaſed God to take this Tyrant from us, and to blaſt the deſignes of that Family, and once again to make way for your Return, whereby the
+hearts of your moſt cordial Friends were made glad and revived with freſh hopes of an happy ſettlement by your hands, and in that little reſpite of time you
+had you gave an honorable beginning to that happy Work; but the ambition and private intereſt of the Great Officers of the Army not being able to en<g ref="char:EOLhyphen"/>dure
+the ſame, you received another Interruption, which carried the face of a more univerſal and fatal Calamity to the Nation then all that went before; this
+Parliament, our Lawes, and all future Parliaments ſeeming thereby to be extinguiſhed, (the blow being aimed thereat) and all Civil Authority diſſolv'd. In
+which time of publick Confuſion, your Servants (the Watermen) moſt of us gave in our names to Colonel <hi>William Wetton</hi> and his Officers (being by them
+much animated thereunto) with full reſolution to venture our lives under his Command, for Reſtauration of this Parliament again, againſt all Enemies and Op<g ref="char:EOLhyphen"/>poſers
+thereof.</p>
+            <p>And now it having pleaſed Almighty God, by a moſt wonderfull and no leſſe then miraculous appearance to bring you together again in great honor and
+freedom, we do render all due praiſe and acknowledgments to God for the ſame, and do heartily congratulate your moſt happy Return, owning this Parliament
+to be the Natural Head of our Countrey, the Supreme Authority of the Commonwealth of <hi>England,</hi> and do humbly preſent our Obedience to your Ho<g ref="char:EOLhyphen"/>nors
+Command in the juſtification and defence of your Perſons and Authority againſt all Enemies whatſoever; hoping you will now clearly free us from all
+perſonal and private Faction, (God hitherto blaſting all the Counſels and Undertakings of ſuch) and ſafely ſettle us upon the ſpeedy ſucceſſion of Equal Re<g ref="char:EOLhyphen"/>preſentatives,
+wherein (according to your late Declaration) our Lawes and Liberties may be preſerved, all Arbitrary Powers prevented, Trade and Navigation
+encouraged, Diviſion and Differences ended, and the whole People quieted in the common Brotherhood of Unity, Freedom and Peace; that not only this
+Age, but the Generations to come may be happy therein, and call you Bleſſed; which is the hearty Prayer of</p>
+            <closer>
+               <salute>Right Honorable,</salute>
+               <signed>Your dutiful and moſt obedient Servants.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_report">
+            <opener>
+               <dateline>
+                  <date>Tueſday, January 31. 1659.</date>
+               </dateline>
+            </opener>
+            <p>THe Houſe being informed that divers Petitioners were at the Door, they were called in; and being come to the Barr, one of the Petitioners (in the be<g ref="char:EOLhyphen"/>half
+of himſelf and the reſt of the Petitioners) did humbly deſire the Houſe to take into conſideration the humble Addreſs of the <hi>Watermen,</hi> and
+thereupon withdrew. After the Petitioners were withdrawn, their Addreſs, Entituled <hi>The Humble Addreſs and Congratulation of many thouſands of Water<g ref="char:EOLhyphen"/>men
+belonging to the River of Thames,</hi> was read.</p>
+            <p>
+               <hi>Reſolved by the Parliament,</hi> That the Petitioners have the hearty thanks of the Parliament.</p>
+            <p>The Petitioners being again called in, Mr Speaker gave them this Anſwer.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>THe Houſe have read your Petition, and they have weighed it, and finde in it much more matter and ſubſtance then could have been expected, and much faith<g ref="char:EOLhyphen"/>fulneſs
+in you to the good and ſafety of this Commonwealth; They finde alſo much of truth ſet forth therein; They alſo take notice of your good affections, who
+are their Neighbors; as yee have alwaies had, ſo now you have manifeſted your good affections to the Parliament. <g ref="char:V">Ʋ</g>pon all theſe Conſiderations, the Parliament
+have commanded mee to give you hearty thanks, and in their names I do give you hearty thanks accordingly.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>REſolved by the Parliament,</hi> That this Humble Addreſs and Congratulatuion of the <hi>Watermen</hi> be printed and publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas St Nicholas,</hi> Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
